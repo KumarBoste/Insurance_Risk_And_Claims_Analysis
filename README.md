@@ -1,4 +1,5 @@
 # Insurance Risk & Claims Analysis (Power BI)
+![DASHBOARD](https://github.com/KumarBoste/Insurance_Risk_And_Claims_Analysis/blob/main/Power%20BI%20Dashboard/Insurance%20Risk%20%26%20Claims%20Analysis%20Dashboard%20SS.png)
 
 ## Project Objective
 The objective of this project is to analyze insurance risk and claim patterns using historical policy and claims data.
