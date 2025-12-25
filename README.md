@@ -1,2 +1,1 @@
-# Insurance_Risk_And_Claims_Analysis
-Power BI
+# Insurance Risk & Claims Analysis (Power BI)
